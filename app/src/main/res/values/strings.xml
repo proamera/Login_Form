@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="invalidpass">Your pass word must contain letters and numbers and special characters </string>
+</resources>
